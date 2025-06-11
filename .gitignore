@@ -9,3 +9,4 @@ build/
 # OS/System
 .DS_Store
 Thumbs.db
+backend/config/*.json
